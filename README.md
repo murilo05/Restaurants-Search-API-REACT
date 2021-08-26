@@ -1,4 +1,4 @@
-In the project directory, you can run:
+In the project directory, you have to create a file with the name '.env', inside this file, put your google maps API, after that you can run:
 
 ### `yarn/npm start`
 
